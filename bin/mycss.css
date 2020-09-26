@@ -1,0 +1,70 @@
+.header{
+    -fx-background-color:#212121;
+    -fx-font:20px "Serif";
+    -fx-text-fill:white;
+ 
+}
+.back{
+    -fx-background-color:#212121;
+    -fx-font:20px "Serif";
+    -fx-text-fill:white;
+ 
+}
+.class-left{
+    -fx-background-color: #b5e7ff;
+     
+}
+
+
+.custom-button {
+    -fx-font: 24px "Serif";
+    -fx-pref-height: 50;
+    -fx-pref-width: 160;
+    -fx-text-fill:white;
+    
+    -fx-background-color: #424242;
+}
+.custom-button1 {
+    -fx-font: 24px "Serif";
+    -fx-pref-height: 250;
+    -fx-pref-width: 250;
+    -fx-text-fill:white;
+    
+    -fx-background-color: #0277bd;
+}
+.custom-lable {
+    -fx-font: 24px "Serif";
+   
+    -fx-text-fill:white;
+}
+.custom-lable1 {
+    -fx-font: 50px "Serif";
+   
+    -fx-text-fill:white;
+     -fx-background-color: #212121;
+}
+.custom-buttonn {
+    -fx-font: 20px "Serif";
+   -fx-text-fill:white;
+    
+    -fx-background-color: #0277bd;
+}
+.text-field {
+
+    -fx-pref-height: 30;
+    -fx-pref-width: 210;
+    
+    
+}
+
+.custom-pane-center {
+     -fx-background-color: #b5e7ff;
+}
+
+.custom-label {
+    -fx-font: 12px "Serif";
+    -fx-padding: 10;
+    -fx-text-fill:black;
+    -fx-font-weight:bold;
+    
+}
